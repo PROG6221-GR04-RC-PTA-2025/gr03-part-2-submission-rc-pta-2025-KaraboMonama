@@ -24,7 +24,7 @@ class Program
 
     static void Main()
     {
-        // Play a greeting sound and display ASCII art
+        
         PlayGreeting();
         DisplayAsciiArt();
 
@@ -159,7 +159,7 @@ class Program
             return "It's completely understandable to feel that way. Scammers can be very convincing. Here are some tips to help you stay safe:\n" +
                    "- Always verify the sender of emails.\n" +
                    "- Use two-factor authentication.\n" +
-                   "- Keep your software updated.";// Provides tips for worried users
+                   "- Keep your software updated.";
         }
         else if (userInput.Contains("curious"))
         {
