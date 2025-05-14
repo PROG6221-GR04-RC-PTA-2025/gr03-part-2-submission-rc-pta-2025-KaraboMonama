@@ -60,7 +60,7 @@ class Program
                 continue; // restart the loop
             }
 
-            // Handle follow-up questions
+            
             if (userInput.Contains("more about"))
             {
                 if (lastTopic != "")
@@ -80,7 +80,7 @@ class Program
         }
     }
 
-    // Method to play a greeting sound
+   
     static void PlayGreeting()
     {
         using (SoundPlayer player = new SoundPlayer("greeting.wav"))
