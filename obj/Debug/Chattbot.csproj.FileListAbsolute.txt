@@ -1,0 +1,7 @@
+C:\Users\karab\source\repos\Chattbot\Chattbot\bin\Debug\Chattbot.exe.config
+C:\Users\karab\source\repos\Chattbot\Chattbot\bin\Debug\Chattbot.exe
+C:\Users\karab\source\repos\Chattbot\Chattbot\bin\Debug\Chattbot.pdb
+C:\Users\karab\source\repos\Chattbot\Chattbot\obj\Debug\Chattbot.csproj.AssemblyReference.cache
+C:\Users\karab\source\repos\Chattbot\Chattbot\obj\Debug\Chattbot.csproj.CoreCompileInputs.cache
+C:\Users\karab\source\repos\Chattbot\Chattbot\obj\Debug\Chattbot.exe
+C:\Users\karab\source\repos\Chattbot\Chattbot\obj\Debug\Chattbot.pdb
